@@ -17,8 +17,13 @@ A DHCP Server is a network server that automatically provides and assigns IP add
 ![image](https://user-images.githubusercontent.com/69961625/122797105-bec2af00-d2dc-11eb-811c-7f7e983c38b8.png)
 
 Methodology:
+
 Real time implementation using Packet Tracer
 
 Developing sniffer program by scapy - Python
 
+![1](https://user-images.githubusercontent.com/69961625/122797372-09442b80-d2dd-11eb-9abe-60a05a68b10f.png)
 
+![2](https://user-images.githubusercontent.com/69961625/122797369-08ab9500-d2dd-11eb-98b2-bffff66d8c4a.png)
+
+![3](https://user-images.githubusercontent.com/69961625/122797362-077a6800-d2dd-11eb-9ae3-b6916f708045.png)
