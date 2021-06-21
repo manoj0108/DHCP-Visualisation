@@ -30,3 +30,5 @@ Fig. 2: Analysing the single phase of DHCP
 
 ![3](https://user-images.githubusercontent.com/69961625/122797362-077a6800-d2dd-11eb-9ae3-b6916f708045.png)
 Fig. 3: DHCP renew visualisation
+
+Note: Install Scapy in your machine before executing.
