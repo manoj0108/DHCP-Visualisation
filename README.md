@@ -12,3 +12,5 @@ Objective:
 The implementation of a DHCP server minimizes the errors related to the configuration of Internet Protocol(IP) addresses manually and to configure the DHCP server and administer on clients and servers.
 
 
+A DHCP Server is a network server that automatically provides and assigns IP addresses, default gateways and other network parameters to client devices.
+![image](https://user-images.githubusercontent.com/69961625/122797039-ab174880-d2dc-11eb-834b-f0aa4871baa2.png)
