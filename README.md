@@ -22,8 +22,11 @@ Real time implementation using Packet Tracer
 
 Developing sniffer program by scapy - Python
 
-![1](https://user-images.githubusercontent.com/69961625/122797372-09442b80-d2dd-11eb-9abe-60a05a68b10f.png)
-
 ![2](https://user-images.githubusercontent.com/69961625/122797369-08ab9500-d2dd-11eb-98b2-bffff66d8c4a.png)
+Fig. 1: Real-Time visualisation of DHCP Phases
+
+![1](https://user-images.githubusercontent.com/69961625/122797372-09442b80-d2dd-11eb-9abe-60a05a68b10f.png)
+Fig. 2: Analysing the single phase of DHCP
 
 ![3](https://user-images.githubusercontent.com/69961625/122797362-077a6800-d2dd-11eb-9ae3-b6916f708045.png)
+Fig. 3: DHCP renew visualisation
