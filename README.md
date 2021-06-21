@@ -13,4 +13,4 @@ The implementation of a DHCP server minimizes the errors related to the configur
 
 
 A DHCP Server is a network server that automatically provides and assigns IP addresses, default gateways and other network parameters to client devices.
-![image](https://user-images.githubusercontent.com/69961625/122797039-ab174880-d2dc-11eb-834b-f0aa4871baa2.png)
+![image](https://user-images.githubusercontent.com/69961625/122797105-bec2af00-d2dc-11eb-811c-7f7e983c38b8.png)
